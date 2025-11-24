@@ -1,4 +1,5 @@
 🌾 AgroChain – Blockchain-Based Agriculture Supply Chain Transparency
+**MORE DETAILS ARE IN FINALPPT.PDF**
 
 AgroChain is a decentralized platform designed to bring transparency, traceability, and trust to the agriculture supply chain. By leveraging Ethereum/Polygon smart contracts, QR-code-based tracking, and a modern React + Vite frontend, the system enables all stakeholders (farmers, distributors, retailers, consumers) to verify the entire lifecycle of agricultural produce — from farm to table.
 
